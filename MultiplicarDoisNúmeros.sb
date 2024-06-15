@@ -1,0 +1,7 @@
+TextWindow.WriteLine("programa para multiplicar doia númeroa")
+TextWindow.WriteLine("Digite o valor do primeiro número:")
+PRIMEIRO = TextWindow.Read()
+TextWindow.WriteLine("Digite o valor do segundo número:")
+SEGUNDO = TextWindow.Read()
+RESULTADO = PRIMEIRO*SEGUNDO
+TextWindow.WriteLine(RESULTADO)
